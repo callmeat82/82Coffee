@@ -1,0 +1,14 @@
+82MAJOR · Little Brew
+Unofficial fan game. Member names and photographic references supplied by the user. Character art and cafe art created with OpenAI built-in image generation. Dialogue and preferences are fictional game settings.
+
+Implementation reference: Tea Shop by Connor Shea
+https://github.com/connorshea/teashop
+MIT License, Copyright (c) 2021 Connor Shea.
+Reviewed src/store.ts for tick-based production and multiplicative upgrade cost patterns. This game's order state machine and bilingual interface are newly written. The complete upstream license is included as TEASHOP-LICENSE.txt.
+
+Gameplay research: Project CaffeineHavoc
+https://github.com/meric2/Project-CaffeineHavoc
+Reviewed README's customer-order and recipe workflow. No source or assets copied.
+
+Music: official YouTube embedded videos, not redistributed audio. Sources: https://82major.jp/video/ . Local audio stays on the player device.
+Transparent character atlas v2: generated from supplied references; six measured crops aligned at the feet.
