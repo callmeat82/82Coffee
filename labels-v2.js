@@ -10,3 +10,9 @@ CafeWords.zh.officialSource='切换到官方音乐';
 
 Object.assign(CafeWords.zh,{affection:'好感度',visitDone:'这次已经互动过啦，下次到店再聊吧。',backOrders:'回到订单',chat:'互动',chatHint:'点击小人互动：合适的选择 +2，好感度不低于 0。'});
 Object.assign(CafeWords.ko,{affection:'호감도',visitDone:'이번 방문의 대화는 끝났어요. 다음에 또 이야기해요.',backOrders:'주문으로 돌아가기',chat:'교감하기',chatHint:'손님을 눌러 교감하세요. 좋은 선택 +2, 호감도는 0 아래로 내려가지 않아요.'});
+
+CafeWords.zh.relationshipUnlock='关系进阶';CafeWords.ko.relationshipUnlock='관계 발전';
+
+Object.assign(CafeWords.zh,{localMusic:'选择音频或 MV',localMusicHint:'支持音频及 MP4/WebM MV，仅播放声音。收起面板仍可播放；锁屏播放取决于系统。文件不上传。'});Object.assign(CafeWords.ko,{localMusic:'음원 또는 MV 선택',localMusicHint:'음원과 MP4/WebM MV의 소리만 재생해요. 패널을 닫아도 계속 재생해요. 잠금 화면 재생은 기기에 따라 달라요. 파일은 업로드하지 않아요.'});
+Object.assign(CafeWords.zh,{audioReady:'点击随机播放，或选择下面的歌曲。',audioHint:'已加入两首歌曲。收起面板仍会播放，支持随机切歌。',audioBlocked:'请点击播放按钮开始。',audioError:'音频暂时无法播放，请重试或换一首。',collapseMusic:'收起音乐面板（继续播放）'});
+Object.assign(CafeWords.ko,{audioReady:'랜덤 재생을 누르거나 아래 곡을 선택하세요.',audioHint:'두 곡이 준비되어 있어요. 패널을 닫아도 재생되며 랜덤으로 다음 곡을 들어요.',audioBlocked:'재생 버튼을 눌러 주세요.',audioError:'음원을 재생할 수 없어요. 다시 시도하거나 다른 곡을 선택하세요.',collapseMusic:'음악 패널 접기 (재생 유지)'});

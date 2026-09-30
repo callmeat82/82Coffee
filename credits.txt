@@ -12,3 +12,5 @@ Reviewed README's customer-order and recipe workflow. No source or assets copied
 
 Music: official YouTube embedded videos, not redistributed audio. Sources: https://82major.jp/video/ . Local audio stays on the player device.
 Transparent character atlas v2: generated from supplied references; six measured crops aligned at the feet.
+
+User-supplied MP3 tracks: 오늘 어때 (wyd), Like Fire by 82MAJOR. Audio rights remain with their respective rightsholders; code/reference licenses do not license the recordings.
